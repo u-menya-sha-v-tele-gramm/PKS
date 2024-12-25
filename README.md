@@ -13,8 +13,6 @@
 ### Семестр - 5 семестр, 2024-2025 гг.
 
 ---
-# Гиф работы приложения
-![alt text](images/functionality.gif)
 
 # Главная страница
 ![alt text](images/image1.png)
