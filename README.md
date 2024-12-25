@@ -12,6 +12,6 @@
 
 ### Семестр - 5 семестр, 2024-2025 гг.
 
-![image]![image](https://github.com/user-attachments/assets/66cfd8f3-ed0d-47d8-bdd2-97a7e680065a)
+![image](https://github.com/user-attachments/assets/66cfd8f3-ed0d-47d8-bdd2-97a7e680065a)
 
 
