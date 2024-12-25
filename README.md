@@ -24,4 +24,3 @@
 ![alt text](images/image3.png)
 
 # Страница профиля
-![alt text](images/image4.png)
